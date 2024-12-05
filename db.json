@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Cadeiraaa",
+      "price": 199.9,
+      "description": "Cadeira confortável e bonita",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "b726",
+      "name": "henrique",
+      "price": "12",
+      "description": "analise",
+      "image": "https://www.designi.com.br/images/preview/11059133.jpg"
+    },
+    {
+      "id": "21f2",
+      "name": "adwdaw",
+      "price": "123",
+      "description": "saddwawd",
+      "image": "https://www.designi.com.br/images/preview/11059133.jpg"
+    }
+  ]
+}
